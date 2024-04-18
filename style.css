@@ -30,7 +30,7 @@ body {
     align-items: center;
     min-height: 100vh;
     flex-direction: column;
-    background-image: url(https://i.postimg.cc/W10QL69b/background.png);
+    background-image: url("https://i.postimg.cc/W10QL69b/background.png");
     background-repeat: no-repeat;
     background-size: 100%;
     background-color: var(--Light-pink);
